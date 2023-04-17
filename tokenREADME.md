@@ -37,11 +37,4 @@ not subtract values if the value parameter given is less than the current balanc
 
 ## Authors
 
-Contributors names and contact info
-
 Jhon Louise Tan
-
-
-## License
-
-This project is licensed under the MIT License.
